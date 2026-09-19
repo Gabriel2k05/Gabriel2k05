@@ -20,10 +20,7 @@
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielmarx&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Gabriel" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarx&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
-</div>
+![](https://readme-stats-github.pages.dev/api?username=Gabriel2k05&theme=shadow)
 
 ---
 
